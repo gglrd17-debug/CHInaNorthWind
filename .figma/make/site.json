@@ -1,0 +1,10 @@
+{
+  "description": "Streamline your logistics with a user-friendly dashboard for managing shipments from China to Russia, featuring order tracking, financial insights, and direct communication with managers.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
